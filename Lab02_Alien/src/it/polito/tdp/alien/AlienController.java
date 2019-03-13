@@ -63,6 +63,7 @@ public class AlienController {
     	    	
     
     
+    //ggg
     
     @FXML
     void doReset(ActionEvent event) {
